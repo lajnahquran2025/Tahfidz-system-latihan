@@ -1,0 +1,9 @@
+client/
+attached_assets/
+dist/public/
+.git/
+.github/
+*.md
+vite.config.ts
+postcss.config.js
+tailwind.config.ts
